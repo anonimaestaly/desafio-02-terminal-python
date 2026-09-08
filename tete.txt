@@ -1,3 +1,4 @@
-oi amarela 
-instituto teslando
-é amanha 
+programando em python
+eu vou me tornar uma programadora
+ola mundo
+matematica
