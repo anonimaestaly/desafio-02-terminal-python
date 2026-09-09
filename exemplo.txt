@@ -1,5 +1,2 @@
-programando em python
-eu vou me tornar uma programadora
-ola mundo
-matematica
-lalal
+novo.txt
+o gustavoo é um preguiçoso

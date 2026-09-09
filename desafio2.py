@@ -1,7 +1,6 @@
 import os
 import shutil
 
-from pathlib import Path
 from colorama import init, Fore, Style
 
 init(autoreset=True)
